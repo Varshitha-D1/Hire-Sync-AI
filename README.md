@@ -1,3 +1,5 @@
 # Hire-Sync-AI Resume Analyser
 
-![Project Demo](demo_video.mp4)
+### 🎬 [Click here to watch the Hire Sync AI Demo Video](demo_video.mp4)
+
+---
